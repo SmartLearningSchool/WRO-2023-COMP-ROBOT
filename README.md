@@ -1,4 +1,4 @@
-# WRO-2023-COMP-ROBOT
+# WRO-2023-COMP-FUTURE-ENGINEER
 ## Smart Learning  WRO 2023 ROBOT Competition 
 ## WRO 2023 Competition This repository contains the project for the WRO 2023 competition. ## Team Name Smart Learners ## Team Members - Majed Alkhamees - Abdullah Alhilaly ## 
 ## Competition Description The WRO 2023 is an internationally recognized Olympiad competition that seeks to identify and showcase the exceptional talents in engineering and robotics. Participants from around the world come together to compete in a series of challenges designed to test their problem-solving abilities, technical expertise, and teamwork. The competition provides a platform for young minds to demonstrate their skills in designing and building robots while fostering innovation, creativity, and collaboration. It encourages participants to think outside the box and push the boundaries of what is possible in the field of robotics. By participating in the WRO 2023 competition, contestants have the opportunity to gain invaluable experience, form lifelong connections, and pave the way for a promising future in engineering and robotics. ##
