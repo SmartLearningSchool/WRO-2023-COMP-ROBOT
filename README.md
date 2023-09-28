@@ -19,8 +19,15 @@
   -Firstly we began with the servo motor and connected it to the wheel additionally we used the front body that contains the wheels, then we added the base servo motor after that we combined the parts together to make the body of the robot which will hold the battery and all the other components.We also added the DC Base MOTOR, connected the wheels, add the ULTRASONIC SENSORS(3X) last we made the camera stand which is adjustable and stablized the battery. And the Robot is ready for the code to be uploaded to start working.
 
    
-# Hardware Components - RN-E001 - RN-P502 - RN-P501 - RN-E002 - RN-E003 - RN-E004 - RN-E007 - RN-M001 - RN-M002 - RN-E008 - RN-E009 - N01 - N02 - N03 - N04 - N05 - N06 - N07 - N08 - N09 - N10 - RN-A401-2 - RN-A402 - RN-A201 - RN-A202 - RN-A002-2 - RN-A301 - RN-A302 - RN-A101 - RN-A102 - RN-A001 - RN-A001-2 - RN-A103 - RN-A003 - RN-T001 - RN-S008 - RN-E005 - RN-E006 - RN-E010 - RN-A004 - RN-E012 - RN-A005 - RN-A006 - RN-M003 - RN-M004 - RN-T003 - ARDUINOMEGA - UltrasonicSensor(3x)
-
+# Hardware Components
+* Ultrasonic Sensor x3
+* ServoMotor
+* Arduino Mega
+* DC MOTOR
+* MOTOR DRIVER
+* DC BATTERY
+* HUSKYLENS CAMERA
+  
 
 ### Software and Programming To develop our robot's software, we used the following: - Arduino IDE - C/C++ Programming Language 
  ## Contact For any inquiries or further information, please feel free to reach out to our team: - Majed Khamees: [majed.kamis102@gmail.com] - Abdullah Alhilaly: [Abdalhlaly737@gmail.com] ```.
