@@ -1,6 +1,6 @@
 # WRO-2023-COMP-FUTURE-ENGINEER // SAUDI STEM Engineers // WRO 2023 ROBOT Competition 
 
-# Team Name: Saudi STEM Engineers art Learners ## Team Members - Majed Khamees - Abdullah Alhilaly ## 
+# Team Name: Saudi STEM Engineers Learners ## Team Members - Majed Khamees - Abdullah Alhilaly ## 
 
 ![03accb60-da90-4035-8989-61c9d02e9907](https://github.com/SmartLearningSchool/WRO-2023-COMP-ROBOT/assets/145868097/16c9bb1a-9c9c-49b6-9976-a52b0c3e4797)
 
