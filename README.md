@@ -32,9 +32,9 @@ The physical parts of the robot that control the robot include:
 
 ## Future Improvements and Tweaks
 We've had a long journey, and we thought of many ideas and changes to the robot but we have came to a conclusion that we have to make the robot work 100% of the time with accurate and presice movements and after discussion here are some tweaks that we could do in the future:
--Changing the sensors
--working on the robot design
--working on the wiring system(rather than it being a mess)
+*Changing the sensors
+*working on the robot design
+*working on the wiring system(rather than it being a mess)
   
 
 ### Software and Programming To develop our robot's software, we used the following: - Arduino IDE - C/C++ Programming Language 
