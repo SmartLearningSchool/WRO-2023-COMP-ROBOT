@@ -10,7 +10,7 @@
 
 ## Content
 
-* `t-photos` contains 5 photos of the team members and  workspace
+* `t-photos` contains 4 photos of the team members and  workspace
 * `v-photos` pictures of the robot from the top,bottom,both sides and the back and environment
 * `v-video` link to a youtube video which shows the basic movement of the robot
 * `schemes`Shows the pictures of the wiring that has been implemented into the robot 
