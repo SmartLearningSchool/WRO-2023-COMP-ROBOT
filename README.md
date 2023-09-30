@@ -12,7 +12,7 @@
 
 * `t-photos` contains 5 photos of the team members and the enviromental workspace
 * `v-photos` pictures of the robot from the top,bottom,both sides and the back and environment
-* `video` link to a youtube video which shows the movement of the robot
+* `v-video` link to a youtube video which shows the basic movement of the robot
 * `schemes`Shows the pictures of the wiring that has been implemented into the robot =
 * `src` contains the code of which used in the parts and components of the robot
 * `models`.previous shapes that represent an older version of the robot that has been improved and worked on
