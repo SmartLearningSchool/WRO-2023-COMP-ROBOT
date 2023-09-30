@@ -19,9 +19,9 @@
 * `other` Other files that dont fall into the titles above
 
 ## Strategy
-*`Balancing` The robot makes quick reflexes once it detects any near obstacles or walls
-*`testing` Changing the values of the angles and the distances until we get the sweet spot for the robot
-*`Reifying Figuring out the mistakes and trying to find solutions using problem solving skills; that will ultimately improve our communication and will help us do a better job
+* `Balancing` The robot makes quick reflexes once it detects any near obstacles or walls
+* `testing` Changing the values of the angles and the distances until we get the sweet spot for the robot
+* `Reifying` Figuring out the mistakes and trying to find solutions using problem solving skills; that will ultimately improve our communication and will help us do a better job
 
 
 
