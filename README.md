@@ -18,6 +18,12 @@
 * `models`.previous shapes that represent an older version of the robot that has been improved and worked on
 * `other` Other files that dont fall into the titles above
 
+## Strategy
+*`Balancing` The robot makes quick reflexes once it detects any near obstacles or walls
+*`testing` Changing the values of the angles and the distances until we get the sweet spot for the robot
+*`Reifying Figuring out the mistakes and trying to find solutions using problem solving skills; that will ultimately improve our communication and will help us do a better job
+
+
 
   ## How The Robot Was Made
   -Firstly we began with the servo motor and connected it to the wheel additionally we used the front body that contains the wheels, then we added the base servo motor after that we combined the parts together to make the body of the robot which will hold the battery and all the other components.We also added the DC Base MOTOR, connected the wheels, add the ULTRASONIC SENSORS(3X) last we made the camera stand which is adjustable and stablized the battery. And the Robot is ready for the code to be uploaded to start working.
