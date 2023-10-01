@@ -6,16 +6,16 @@
 
 
 ## Introduction
-**The WRO 2023 is an internationally recognized Olympiad competition that seeks to identify and showcase the exceptional talents in engineering and robotics. Participants from around the world come together to compete in a series of challenges designed to test their problem-solving abilities, technical expertise, and teamwork. The competition provides a platform for young minds to demonstrate their skills in designing and building robots while fostering innovation, creativity, and collaboration. It encourages participants to think outside the box and push the boundaries of what is possible in the field of robotics. By participating in the WRO 2023 competition, contestants have the opportunity to gain invaluable experience, form lifelong connections, and pave the way for a promising future in engineering and robotics. All while gaining engineering and learning skills: problem solving  and critical thinking skills that will imrpove the preformace ##
+**The WRO 2023 is an internationally recognized Olympiad competition that seeks to identify and showcase the exceptional talents in engineering and robotics. Participants from around the world come together to compete in a series of challenges designed to test their problem-solving abilities, technical expertise, and teamwork. The competition provides a platform for young minds to demonstrate their skills in designing and building robots while fostering innovation, creativity, and collaboration. It encourages participants to think outside the box and push the boundaries of what is possible in the field of robotics. By participating in the WRO 2023 competition, contestants have the opportunity to gain invaluable experience, form lifelong connections, and pave the way for a promising future in engineering and robotics. All while gaining engineering and learning skills: problem solving  and critical thinking skills that will imrpove their preformace ##
 
 ## Content
 
-* `t-photos` contains 4 photos of the team members and  workspace
-* `v-photos` pictures of the robot from the top,bottom,both sides and the back and environment
-* `v-video` link to a youtube video which shows the basic movement of the robot
+* `t-photos` Contains 4 photos of the team members and  workspace
+* `v-photos` Pictures of the robot from the top,bottom,both sides and the back and environment
+* `v-video` Link to a youtube video which shows the basic movement of the robot
 * `schemes`Shows the pictures of the wiring that has been implemented into the robot 
-* `src` contains the code of which used in the parts and components of the robot
-* `models`.previous shapes that represent an older version of the robot that has been improved and worked on
+* `src` Contains the code of which used in the parts and components of the robot
+* `models` Previous shapes that represent an older version of the robot that has been improved and worked on
 * `other` Other files that dont fall into the titles above
 
 ## Strategy
@@ -40,10 +40,10 @@ The physical parts of the robot that control the robot include:
 * HUSKYLENS CAMERA
 
 ## Future Improvements and Tweaks
-We've had a long journey, and we thought of many ideas and changes to the robot but we have came to a conclusion that we have to make the robot work 100% of the time with accurate and presice movements and after discussion here are some tweaks that we could do in the future:
+We've had a long journey, and we thought of many ideas and changes to the robot but we have came to a conclusion that we have to make the robot work 100% of the time with accurracy and prescion and after discussion here are some tweaks that we could improve  in the future:
 *Changing the sensors
 *working on the robot design
-*working on the wiring system(rather than it being a mess)
+*working on the wiring system(rather than it all being a mess)
   
 
 ### Software and Programming To develop our robot's software, we used the following: - Arduino IDE - C/C++ Programming Language 
